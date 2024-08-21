@@ -1,0 +1,9 @@
+.total{
+    background-color: lightpink;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.btn:focus{
+    background-color: red;
+}
